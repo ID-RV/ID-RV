@@ -6,9 +6,7 @@
 
 <div id="body">
     <i>
-    <h4>I'm study at the SPBPU<br />
-    Direction: Radio Engineering📡<br />
-    Group: 49311101/30002 <br />
+    <h4>I'm study at the SPBPU In the direction of radio engineering📡 in group 4931101/30002<br />
     <details>
     <summary> I'm interested in:</summary><br />
     💻Infomatics<br />
@@ -24,4 +22,5 @@
     </details>
     </h4>
     </i>
+    • You can find me in TG t.me/NotACacke
 </div>
