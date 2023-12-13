@@ -12,13 +12,12 @@
     💻Infomatics<br />
     🛜Physics<br />
     ⚰️Mathematics<br />
-    ⚽Sports
     💎History 
     </details>
     <details>
     <summary> I’m learning:</summary><br />
-        👉Python<br />
-        👉English language<br />
+        Python<br />
+        English language<br />
     </details>
     </h4>
     </i>
