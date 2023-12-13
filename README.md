@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif)" width="600" height="300"/>
+</div>
 <!--
 **ID-RV/ID-RV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
